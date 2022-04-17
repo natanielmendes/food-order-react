@@ -5,5 +5,5 @@ Order food online
 
 In order to tun the prject on localhost
 
-```npm install```
+`npm install`
 `npm start`
