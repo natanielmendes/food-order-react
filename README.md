@@ -3,7 +3,7 @@ React Playground Project
 
 Order food online
 
-In order to tun the prject on localhost
+In order to tun the project on localhost
 
 `npm install`
 `npm start`
