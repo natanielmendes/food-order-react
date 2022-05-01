@@ -1,7 +1,7 @@
 # Food Order React Application
 React Playground Project
 
-Order food online
+Ordering food functionalities
 
 In order to run the project on your local environment, use the following steps:
 
