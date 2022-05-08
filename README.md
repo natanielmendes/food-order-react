@@ -1,4 +1,4 @@
-# Food Order React Application
+# Food Order React App
 
 React Playground Project (for practicing)
 
