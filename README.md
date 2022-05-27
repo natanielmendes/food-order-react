@@ -1,6 +1,6 @@
 # Food Order React App
 
-React Playground Project (for practicing)
+React Playground Project (for practicing the library)
 
 Ordering food functionalities
 
