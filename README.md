@@ -1,4 +1,4 @@
-# Food Order React App
+# Food Orde App written in React
 
 React Playground Project (for practicing the library)
 
