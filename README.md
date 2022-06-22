@@ -2,7 +2,7 @@
 
 React Playground Project (for practicing the library)
 
-Ordering food functionalities in a web app
+Ordering food functionalities in a React web app
 
 In order to run the project on your local environment, it's necessary to follow the instructions below:
 
