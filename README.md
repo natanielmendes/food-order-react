@@ -4,7 +4,7 @@ React Playground Project (for practicing the library)
 
 Ordering food features in a React webapp
 
-In order to run the project on your local environment, use the commands below from the project folder:
+In order to run the project on your local environment, follow the instructions below from the project folder:
 
 `npm install`
 
