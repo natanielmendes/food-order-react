@@ -1,6 +1,6 @@
 # Food Order App in React
 
-React Playground Project (for practicing the library)
+React Playground Project (created to practice the library)
 
 Ordering food features:
 - List meals from Firebase
