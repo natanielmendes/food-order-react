@@ -6,6 +6,7 @@ Ordering food features:
 - List meals from Firebase
 - Add to Cart
 - Add orders to Firebase
+- List orders from Firebase
 
 In order to run the project on your local environment, simply run the following commands:
 
