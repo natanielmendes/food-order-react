@@ -4,9 +4,9 @@ React Playground Project (created to practice the library)
 
 Ordering food features:
 - List meals from Firebase
-- Add item/product to Cart
-- List items in the Cart
-- Remove specific item/product from the Cart
+- Add meal to Cart
+- List meals in the Cart
+- Remove meal from the Cart
 - Increase item quantity in the Cart
 - Clear Cart
 - Add orders to Firebase
