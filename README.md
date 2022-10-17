@@ -7,8 +7,8 @@ Ordering food features:
 - Add meal to Cart
 - List meals in the Cart
 - Remove meal from the Cart
-- Increase meal quantity in the Cart
-- Decrease meal quantity in the Cart
+- Increase cart item quantity in the Cart
+- Decrease cart item quantity in the Cart
 - Clear Cart
 - Add meal order to Firebase
 - List meal orders from Firebase
