@@ -3,8 +3,8 @@
 React Playground Project (created to practice the library)
 
 Ordering food features:
-- Add meal to the Cart
-- Remove meal from the Cart
+- Add new meal to the Cart
+- Remove meal item from the Cart
 - List meals in the Cart
 - Increase meal item in the Cart
 - Decrease meal item in the Cart
