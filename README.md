@@ -9,8 +9,8 @@ Ordering food features:
 - Increase item quantity in the Cart
 - Decrease item quantity in the Cart
 - Clear Cart
-- Add meal order from the Cart to Firebase
-- List meal orders stored into Firebase
+- Add meal order from the Cart into Firebase
+- List meal orders stored in Firebase
 
 In order to run the project on your local environment, simply run the following commands:
 
