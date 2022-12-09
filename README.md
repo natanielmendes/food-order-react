@@ -12,7 +12,7 @@ Ordering food features:
 - Add meal order from the Cart into Firebase
 - List meal orders stored in Firebase
 
-In order to run the project on your local environment, simply run the following commands:
+In order to run the project in your local environment, simply run the following commands:
 
 `npm install`
 
